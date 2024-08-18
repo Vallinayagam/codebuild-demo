@@ -17,4 +17,4 @@ phases:
 artifacts:
   files:
     - target/messageUtil-1.0.jar
-  name: builds/$CODEBUILD_BUILD_NUMBER/messageUtil-1.0.jar
+  name: builds/$CODEBUILD_BUILD_NUMBER/myartifacs
