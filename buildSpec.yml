@@ -17,4 +17,4 @@ phases:
 artifacts:
   files:
     - target/**/*.jar
-  name: builds/$CODEBUILD_RESOLVED_SOURCE_VERSION
+  name: builds/$CODEBUILD_RESOLVED_SOURCE_VERSION/$CODEBUILD_INITIATOR
